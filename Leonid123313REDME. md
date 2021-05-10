@@ -1,0 +1,7 @@
+echo "# Leonid123313" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Leonid123313/Leonid123313.git
+ git push - ты происхождение главная
